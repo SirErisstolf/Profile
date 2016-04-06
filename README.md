@@ -1,2 +1,3 @@
 # Profile
-Mi Portafolio desde donde se puede descargar mi CV http://profile.erisstolf.cl
+Mi Portafolio usando boostrap para diseño responsive desde donde se puede información relevante sobre mi experiencia laboral http://profile.erisstolf.cl
+
